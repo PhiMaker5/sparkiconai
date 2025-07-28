@@ -1,4 +1,4 @@
-# sparkiconai
+# SparkIcon AI
 
 ## what is SparkIcon AI ?
 SparkIcon AI is an advanced AI-powered icon generator designed to turn your ideas into stunning, professional icons in seconds. With a wide range of styles, smart prompt optimization, and flexible export options, SparkIcon AI is your go-to solution for fast, creative, and consistent icon creation.
